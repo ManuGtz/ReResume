@@ -1,0 +1,103 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	width: 800px;
+    margin: 0 auto;
+    border: 3px solid #800000;
+    background-color: #fffded;
+}
+header{
+	background-color: #A8A88E;
+	height:7em;
+}
+#name{
+	color: #8F0000;
+	font-family:"Imprint MT Shadow", Georgia, "Times New Roman";
+	font-size: 30px;
+	padding-top:14px;
+	padding-left:1em;
+}
+#jobs{
+	color: #E6E6E6;
+	font-size: 14px;
+	padding-top:36px;
+	padding-left:2em;
+}
+
+section{
+	height:900px; 
+
+}
+#profhistory{
+	float:right;
+	padding:5px;
+	padding-right:10px;
+	
+}
+#titles{
+	padding-top:3px;
+	padding-bottom:3px;
+	
+}
+.edu{
+	
+	border-top:2px solid #C71313;
+	padding-top:1em;
+	margin-right:3em;
+	
+}
+
+.italic{
+	font-style:normal;
+	padding-bottom:3em;
+}
+
+#profilepicture{
+	border-radius: 4px;
+	box-shadow:  -3px 3px 4px 3px #958C8C;
+	padding:0;
+	margin:1em;
+	margin-top:2em;
+	width: 250px;
+	height:250px;
+}
+#foto{
+	padding-top:0.5em;
+}
+#objectives{
+	margin-left:1em;
+}
+
+#art{
+	width:65%;
+}
+
+.obj{
+	margin-left:1em;
+	font-family: Tahoma, "Times New Roman";
+	text-align:justify;
+	font-size:15px;	
+}
+a:link {
+	color:#C71313;
+}
+.font{
+	color:#0B1073;
+	font-weight:bold;
+}
+/*footer*/
+#address{
+	background-color:#A8A88E;
+	padding-top: .50em;
+	border-top: 3px solid #800000;
+	font-size:20px;
+	font-family:"Agency FB", Georgia;
+	text-align: center;
+	color:#1F1F14;
+}
+
+	
+
